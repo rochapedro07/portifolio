@@ -22,7 +22,7 @@ body {
    /* height: 100vh;   mandei o conteudo interio em divesos depositivos*/
     box-sizing: border-box; /* nada vai sair da pagina enquanto eu for criando  tipos imagems ou palavras */
     background-color:var(--cor-preto);
-    color:var(--cor-branco);
+    color:var(--cor-preto);
 }
 
 .cabecalho{
